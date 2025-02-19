@@ -16,7 +16,7 @@ jobs:
         uses: lemrex/Upgrade-CAE-component@1.0.3
         with:
           project_id: ${{ secrets.PROJECT_ID }}
-          environment_name: "ralf"
+          environment_name: ralf
           app_name: "api"
           component_name: "vuejs"
           version: "1.0.5"
