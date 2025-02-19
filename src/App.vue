@@ -1,6 +1,6 @@
 <template>
   <div id="app" class="container">
-    <h1>Node.js API Tester 12/h1>
+    <h1>Node.js API Tester 12</h1>
     <div class="buttons">
       <button @click="fetchDate" class="btn">Get Date</button>
       <button @click="fetchTime" class="btn">Get Time</button>
