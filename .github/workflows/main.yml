@@ -13,7 +13,7 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Deploy Component
-        uses: lemrex/Upgrade-CAE-component@1.0.9
+        uses: lemrex/Upgrade-CAE-component@1.0.10
         with:
           project_id: ${{ secrets.PROJECT_ID }}
           environment_name: ralf
