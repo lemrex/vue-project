@@ -1,6 +1,6 @@
 # vue-projects
 
-This template should help get you started developing with Vue 3 in Vites.s
+This template should help get you started developing with Vue 3 in Vites.
 
 ## Recommended IDE Setup
 
